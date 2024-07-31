@@ -26,6 +26,8 @@ struct ContentView: View {
             VStack{
                 Text("Tong")
             }
+            Text("LEMME TRY")
+            
         }
         .padding()
     }
